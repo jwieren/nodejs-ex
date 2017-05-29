@@ -1,3 +1,3 @@
-echo "Assembling"
+echo "Assembling by calling ${S2I_SCRIPTS_PATH}"
 
-${STI_SCRIPTS_PATH}/assemble-base
+$S2I_SCRIPTS_PATH/assemble
