@@ -1,2 +1,3 @@
 ls
 echo "hello world"
+exec ${STI_SCRIPTS_PATH}/run-base
